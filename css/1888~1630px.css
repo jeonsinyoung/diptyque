@@ -1,0 +1,192 @@
+@media (max-width: 1888px) {
+  .paris:hover .p_txt_top h3 {
+    font-size: 26px;
+  }
+}
+
+@media (max-width: 1830px) {
+  .swiper-wrapper p {
+    font-size: 270px;
+  }
+}
+
+@media (max-width: 1735px) {
+  .swiper-wrapper p {
+    font-size: 255px;
+  }
+
+  .number {
+    margin-bottom: 16px;
+    font-size: 22px;
+  }
+
+  .g_title h3 {
+    font-size: 20px;
+  }
+
+  .gift_txt {
+    font-size: 15px;
+  }
+
+  .gift_1,
+  .gift_2 {
+    margin-right: 1.5%;
+  }
+}
+
+@media (max-width: 1730px) {
+  html,
+    body {
+      overflow-x: hidden;
+    }
+
+  .sec {
+    min-width: auto;
+  }
+
+  .sec1_img{
+    margin-top: 10vh;
+  }
+
+  .sec1_txt{
+    margin-bottom: 0;
+  }
+
+  .sec2_pc {
+    border-left: none;
+  }
+
+  .item_wrap{
+    margin-top: 0;
+  }
+
+  .txt3_box{
+    margin-bottom: 0;
+  }
+
+  .up_img{
+    bottom: 0;
+  }
+
+  .down_img {
+    margin-top: 15vh;
+  }
+
+  .txt_wrap{
+    margin-bottom: 50px;
+  }
+
+  .object1, 
+  .object2, 
+  .object3, 
+  .object4{
+    margin-top: 0;
+  }
+
+  .img_box1{
+    margin-top: 24vh;
+  }
+
+  .img_box2{
+    margin-top: 15vh;
+  }
+
+  .img_box3{
+    top: 45vh;
+  }
+
+  .img_box4{
+    margin-top: 40vh;
+  }
+
+  .txt6_box{
+    margin-top: 0;
+  }
+
+  .gift_1,
+  .gift_2,
+  .gift_3 {
+    margin-top: 0;
+  }
+
+  .txt7_box {
+    margin-top: 0;
+  }
+
+  .paris {
+    margin-top: 0;
+  }
+
+}
+
+
+@media (max-width: 1630px) {
+  .swiper-wrapper p {
+    font-size: 240px;
+  }
+
+  .more_btn {
+    height: 47px;
+  }
+
+  .down_img img {
+    object-position: -700px;
+  }
+
+  .txt6_box {
+    padding: 17.7vh 80px 0;
+  }
+
+  .gift_box {
+    padding: 0 80px;
+  }
+
+  .gift_img {
+    width: 250px;
+  }
+
+  .gift_img2 {
+    width: 350px;
+    height: 24vh;
+  }
+
+  .txt7_box {
+    margin-right: 10vw;
+  }
+
+  .txt7_box h3 {
+    font-size: 40px;
+  }
+
+  .paris {
+    margin-right: 4.5vw;
+  }
+
+  .p_txt_bottom h5 {
+    margin-bottom: 15px;
+  }
+
+  .paris:hover .p_txt_top p {
+    font-size: 36px;
+  }
+
+  .paris:hover .p_txt_top h3 {
+    font-size: 22px;
+  }
+
+  .paris:hover .p_txt_bottom {
+    margin-top: 24vh;
+  }
+
+  .paris_3:hover .p_txt_bottom {
+    margin-top: 26.6vh;
+  }
+
+  .logo2 {
+    width: 645px;
+  }
+
+  footer {
+    padding: 65px 250px;
+  }
+}

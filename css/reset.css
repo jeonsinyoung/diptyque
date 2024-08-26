@@ -1,0 +1,36 @@
+@font-face {
+  font-family: pixel_georgia;
+  src: url(../font/pixel_georgia/Pixel\ Georgia.ttf);
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Gothic+A1&display=swap');
+
+
+* {
+  /* font-family: voques; */
+  font-family: "Roboto Serif", serif;
+  /* font-family: "Gothic A1", sans-serif; */
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.kr {
+  font-family: "Gothic A1", sans-serif;
+  color: #1a1a1a;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+img,
+svg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
