@@ -130,7 +130,11 @@
   }
 
   .down_img img {
-    object-position: -700px;
+    object-position: 61%;
+  }
+
+  .down_img{
+    width: 30%;
   }
 
   .txt6_box {

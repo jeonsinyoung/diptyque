@@ -150,7 +150,6 @@ header.on {
 }
 
 /* ------------------------------------- */
-/* 수정 1번 */
 .sec1_img {
   width: 747px;
   margin-top: -500px;
@@ -279,7 +278,6 @@ header.on {
 }
 
 /* ------------------------------- */
-/* 수정 2번 */
 .item_wrap {
   margin-right: 1.08vw;
   margin-top: 200vh;
@@ -374,7 +372,7 @@ header.on {
 
 .down_img img {
   border-radius: 334.5px 334.5px 0 0;
-  object-position: -670px;
+  object-position: 60%;
 }
 
 .down_img.active {
